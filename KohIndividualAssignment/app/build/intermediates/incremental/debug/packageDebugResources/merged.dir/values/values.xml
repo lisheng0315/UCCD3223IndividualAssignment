@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loan_types">
+        <item>Personal loan</item>
+        <item>Housing loan</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">KohIndividualAssignment</string>
+    <style name="Base.Theme.KohIndividualAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.KohIndividualAssignment" parent="Base.Theme.KohIndividualAssignment"/>
+</resources>

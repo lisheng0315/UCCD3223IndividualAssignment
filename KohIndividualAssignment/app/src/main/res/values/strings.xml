@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KohIndividualAssignment</string>
+    <string-array name="loan_types">
+        <item>Personal loan</item>
+        <item>Housing loan</item>
+    </string-array>
+</resources>
